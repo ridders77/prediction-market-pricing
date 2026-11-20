@@ -1,8 +1,24 @@
-# Prediction-market calibration study, version 2
+# Are prediction-market contracts mispriced?
 
-Tests for a favourite-longshot bias on resolved Polymarket and Kalshi markets, and whether it
-shrank after the 2026 papers on it. The write-up is `results/report.md`; every judgement call is
-in `DECISIONS.md`.
+**Question:** do Polymarket and Kalshi show a favourite-longshot bias
+(cheap contracts overpriced), and has it shrunk since the 2026 papers
+on it?
+
+## Key findings
+- 170,000+ resolved markets collected (99,778 Polymarket, 73,388 Kalshi)
+- Overall, prices are well calibrated (7-day slope 1.00 Polymarket,
+  1.03 Kalshi; 1 = perfectly priced)
+- Low-volume markets show the bias (slopes 1.24 / 1.16); high-volume
+  markets show the reverse (0.88 / 0.89)
+- Kalshi contracts priced at 15p or less returned -35% before fees
+  (n = 7,499), a pricing bias rather than a tradeable edge
+- The bias has not shrunk since the papers
+
+Full write-up: `results/report.md`. Every judgement call is in
+`DECISIONS.md`.
+
+**Note:** the data pipeline and analysis were built with an AI coding
+assistant (Claude Code) from a brief I wrote (`claude_code_prompt.md`).
 
 ## What is here
 
@@ -13,10 +29,10 @@ in `DECISIONS.md`.
 | `apiutil.py` | Shared HTTP helper: at most 4 requests in flight, back-off on 429/5xx, stops if a source keeps refusing |
 | `analyse.py` | All tables, the power calculation, charts |
 | `verify.py` | Independent re-computation of the headline numbers |
-| `data/` | Raw downloads (JSON lines) |
+| `data/` | Not included (~1.5 GB); the download scripts recreate it |
 | `results/` | `report.md` (the write-up), `tables.md` (every table), `results.json`, `csv/`, three charts |
 | `claude_code_prompt.md` | The original brief |
-| `logs/` | Download logs |
+
 
 ## Requirements
 
