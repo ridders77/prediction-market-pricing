@@ -1,0 +1,5 @@
+Platform,Period,Markets,Median volume,Low-volume share,High-volume share,Mix by type
+Polymarket,before,14570,"35,334",18%,46%,"Yes/No 90%, Named outcomes 10%"
+Polymarket,after,11494,"6,034",52%,17%,"Yes/No 53%, Named outcomes 47%"
+Kalshi,before,5309,"12,758",31%,36%,"Culture and other 61%, Economics and finance 14%, Politics and world 11%, Sports 8%, Weather 4%, Crypto 2%"
+Kalshi,after,4994,"9,360",38%,29%,"Culture and other 33%, Economics and finance 22%, Sports 20%, Politics and world 19%, Weather 3%, Crypto 3%"

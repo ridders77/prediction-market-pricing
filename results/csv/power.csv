@@ -1,0 +1,9 @@
+Platform,Horizon (days),n before,n after,"SE of change, simulated (independent markets)","SE of change, event bootstrap",Design effect,"Smallest detectable change, simulated","Smallest detectable change, event bootstrap",Power achieved in check simulation
+Polymarket,1,43221,28622,0.021,0.021,1.07,0.058,0.06,0.79
+Polymarket,7,14570,11494,0.033,0.037,1.26,0.092,0.104,0.78
+Polymarket,30,4155,1228,0.071,0.081,1.31,0.199,0.228,0.78
+Polymarket,90,1772,375,0.115,0.124,1.16,0.323,0.347,0.79
+Kalshi,1,6519,6434,0.035,0.043,1.46,0.099,0.119,0.77
+Kalshi,7,5309,4994,0.038,0.045,1.38,0.108,0.127,0.81
+Kalshi,30,2729,2676,0.051,0.069,1.8,0.143,0.192,0.78
+Kalshi,90,944,742,0.103,0.128,1.53,0.289,0.358,0.77

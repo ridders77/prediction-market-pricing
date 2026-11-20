@@ -1,0 +1,25 @@
+Platform,Horizon (days),Volume tercile,Slope (95% interval),Markets,Events
+Polymarket,1,"Low (up to 5,882)",1.10 (1.06 to 1.14),25040,20727
+Polymarket,1,"Middle (5,882 to 30,039)",1.03 (0.99 to 1.06),25039,20831
+Polymarket,1,"High (over 30,039)",0.91 (0.88 to 0.94),25040,20718
+Polymarket,7,"Low (up to 6,742)",1.24 (1.16 to 1.32),9085,7266
+Polymarket,7,"Middle (6,742 to 42,998)",1.04 (0.99 to 1.09),9085,6697
+Polymarket,7,"High (over 42,998)",0.88 (0.84 to 0.93),9085,6107
+Polymarket,30,"Low (up to 22,491)",1.14 (1.02 to 1.30),1835,1246
+Polymarket,30,"Middle (22,491 to 158,747)",1.14 (1.04 to 1.26),1835,1186
+Polymarket,30,"High (over 158,747)",0.96 (0.88 to 1.05),1835,1143
+Polymarket,90,"Low (up to 47,020)",1.26 (1.08 to 1.52),728,471
+Polymarket,90,"Middle (47,020 to 372,365)",1.18 (1.01 to 1.41),727,482
+Polymarket,90,"High (over 372,365)",0.88 (0.75 to 1.02),727,388
+Kalshi,1,"Low (up to 5,126)",1.15 (1.08 to 1.23),4705,2041
+Kalshi,1,"Middle (5,126 to 17,792)",1.09 (1.03 to 1.16),4704,2019
+Kalshi,1,"High (over 17,792)",0.86 (0.80 to 0.92),4704,2045
+Kalshi,7,"Low (up to 5,773)",1.16 (1.09 to 1.24),3656,1340
+Kalshi,7,"Middle (5,773 to 25,767)",1.07 (0.99 to 1.15),3655,1412
+Kalshi,7,"High (over 25,767)",0.89 (0.82 to 0.96),3656,1223
+Kalshi,30,"Low (up to 7,737)",1.20 (1.07 to 1.35),1927,802
+Kalshi,30,"Middle (7,737 to 42,024)",1.04 (0.94 to 1.15),1927,828
+Kalshi,30,"High (over 42,024)",0.84 (0.76 to 0.94),1927,664
+Kalshi,90,"Low (up to 11,461)",1.19 (0.99 to 1.48),580,271
+Kalshi,90,"Middle (11,461 to 83,814)",1.02 (0.84 to 1.26),579,279
+Kalshi,90,"High (over 83,814)",0.87 (0.74 to 1.04),580,214

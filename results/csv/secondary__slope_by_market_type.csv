@@ -1,0 +1,33 @@
+Platform,Horizon (days),Group,Slope (95% interval),Markets,Events
+Polymarket,1,Named outcomes,0.91 (0.87 to 0.94),42800,38370
+Polymarket,1,Yes/No,1.06 (1.04 to 1.09),32319,19137
+Polymarket,7,Named outcomes,1.15 (1.07 to 1.24),7209,5521
+Polymarket,7,Yes/No,0.97 (0.93 to 1.00),20046,12234
+Polymarket,30,Named outcomes,0.83 (0.46 to 1.42),226,172
+Polymarket,30,Yes/No,1.07 (1.01 to 1.13),5279,3036
+Polymarket,90,Named outcomes,1.52 (0.35 to 8.02),31,30
+Polymarket,90,Yes/No,1.05 (0.96 to 1.15),2151,1184
+Kalshi,1,Crypto,0.49 (0.22 to 1.17),138,59
+Kalshi,1,Culture and other,1.07 (1.02 to 1.13),8540,1825
+Kalshi,1,Economics and finance,0.99 (0.88 to 1.13),1253,571
+Kalshi,1,Politics and world,1.13 (0.99 to 1.33),705,399
+Kalshi,1,Sports,0.95 (0.87 to 1.04),3253,1153
+Kalshi,1,Weather,1.25 (0.95 to 1.73),224,127
+Kalshi,7,Crypto,1.35 (0.90 to 2.36),241,69
+Kalshi,7,Culture and other,1.00 (0.94 to 1.06),5190,899
+Kalshi,7,Economics and finance,1.08 (0.99 to 1.20),1978,541
+Kalshi,7,Politics and world,1.07 (0.98 to 1.19),1665,606
+Kalshi,7,Sports,1.13 (1.01 to 1.27),1446,366
+Kalshi,7,Weather,1.07 (0.91 to 1.31),447,170
+Kalshi,30,Crypto,1.13 (0.73 to 1.99),148,47
+Kalshi,30,Culture and other,1.14 (1.03 to 1.26),1767,345
+Kalshi,30,Economics and finance,1.02 (0.88 to 1.18),1351,341
+Kalshi,30,Politics and world,1.03 (0.91 to 1.18),1397,530
+Kalshi,30,Sports,1.00 (0.85 to 1.22),624,155
+Kalshi,30,Weather,0.69 (0.53 to 0.88),494,148
+Kalshi,90,Crypto,0.93 (0.39 to 1.74),58,24
+Kalshi,90,Culture and other,1.14 (0.89 to 1.53),249,90
+Kalshi,90,Economics and finance,1.24 (1.01 to 1.62),405,112
+Kalshi,90,Politics and world,0.91 (0.74 to 1.16),625,255
+Kalshi,90,Sports,0.89 (0.69 to 1.17),353,84
+Kalshi,90,Weather,0.62 (0.21 to 2.78),49,14

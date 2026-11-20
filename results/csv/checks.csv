@@ -1,0 +1,18 @@
+Check,Result
+Polymarket: duplicate markets,0
+"Polymarket: duplicate (market, horizon) rows",0
+Polymarket: prices dated after their horizon,0
+Polymarket: prices dated after market close,0
+Polymarket: prices more than 12h before horizon,0
+Polymarket: horizon not equal to close minus h days,0
+Polymarket: rows where market was open less than the horizon,0
+Polymarket: outcomes not 0/1,0
+Kalshi: duplicate markets,0
+"Kalshi: duplicate (market, horizon) rows",0
+Kalshi: prices dated after their horizon,0
+Kalshi: prices dated after market close,0
+Kalshi: prices more than 12h before horizon,0
+Kalshi: horizon not equal to close minus h days,0
+Kalshi: rows where market was open less than the horizon,0
+Kalshi: outcomes not 0/1,0
+Kalshi: share of prices from a quote midpoint rather than a trade,26.5%

@@ -1,0 +1,9 @@
+Variant,Platform,Horizon (days),Slope before,n before,Slope after,n after,Change (after - before),Bootstrap p
+Prices 5% to 95%,Polymarket,7,0.97 (0.93 to 1.02),13275,1.07 (1.02 to 1.14),11118,0.10 (0.02 to 0.18),0.004
+Prices 5% to 95%,Kalshi,7,0.98 (0.92 to 1.05),4738,1.06 (1.00 to 1.14),4287,0.09 (-0.01 to 0.18),0.089
+Split at 1 Sep 2025 (no gap),Polymarket,7,1.03 (0.97 to 1.08),8813,1.01 (0.96 to 1.05),18442,-0.02 (-0.09 to 0.05),0.551
+Split at 1 Sep 2025 (no gap),Kalshi,7,1.01 (0.92 to 1.12),1692,1.04 (0.99 to 1.09),9275,0.02 (-0.09 to 0.13),0.7
+Polymarket: horizon counted from the earlier of scheduled end and close,Polymarket,7,1.04 (1.00 to 1.09),11117,1.11 (1.05 to 1.18),10667,0.07 (-0.01 to 0.15),0.093
+Polymarket: horizon counted from the earlier of scheduled end and close,Polymarket,1,1.05 (1.02 to 1.08),41656,0.98 (0.95 to 1.01),28316,-0.08 (-0.12 to -0.03),0.0
+Polymarket: prices of exactly 50% removed (placeholder quotes),Polymarket,7,0.99 (0.95 to 1.03),13407,1.08 (1.02 to 1.14),10150,0.09 (0.02 to 0.16),0.009
+Kalshi: traded prices only (no quote midpoints),Kalshi,7,1.01 (0.94 to 1.09),3565,1.06 (0.98 to 1.14),3144,0.04 (-0.07 to 0.17),0.446
